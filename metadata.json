@@ -1,0 +1,8 @@
+{
+  "name": "Remix: JSON Chunk Viewer",
+  "description": "Dividi e naviga file grandi JSON a blocchi per evitare lag sul tuo smartphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
